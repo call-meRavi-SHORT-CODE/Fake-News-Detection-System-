@@ -23,9 +23,14 @@ Features
 Dataset
   The Fake News Detection System uses the (submit.csv). You can download the dataset from https://www.kaggle.com/c/fake-news/data.
   Technologies Used
-Data Processing: NumPy, Pandas, NLTK (Natural Language Toolkit)
-Machine Learning: scikit-learn
-Version Control: Git
+
+Data Processing: 
+  NumPy, Pandas, NLTK (Natural Language Toolkit)
+Machine Learning: 
+  scikit-learn
+Version Control: 
+  Git
+
 How to Contribute
   Fork the repository.
   Clone the forked repository to your local machine.
